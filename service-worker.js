@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.f526d8cfac551ca10150a2d80e41beb3.js"
+  "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.3729c73b2d5771f32f41faff230b0b74.js"
 );
 
 self.addEventListener('message', (event) => {
