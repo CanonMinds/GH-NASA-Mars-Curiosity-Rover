@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.62629730.chunk.css",
+    "main.css": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.555a44f5.chunk.css",
     "main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.307a2fcd.chunk.js",
     "main.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.307a2fcd.chunk.js.map",
     "runtime-main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/runtime-main.d0e17e8c.js",
@@ -8,15 +8,15 @@
     "static/js/2.0aa3bed4.chunk.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.0aa3bed4.chunk.js",
     "static/js/2.0aa3bed4.chunk.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.0aa3bed4.chunk.js.map",
     "index.html": "/GH-NASA-Mars-Curiosity-Rover/index.html",
-    "precache-manifest.4564550ada9223530f51ddb70fa5f226.js": "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.4564550ada9223530f51ddb70fa5f226.js",
+    "precache-manifest.f526d8cfac551ca10150a2d80e41beb3.js": "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.f526d8cfac551ca10150a2d80e41beb3.js",
     "service-worker.js": "/GH-NASA-Mars-Curiosity-Rover/service-worker.js",
-    "static/css/main.62629730.chunk.css.map": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.62629730.chunk.css.map",
+    "static/css/main.555a44f5.chunk.css.map": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.555a44f5.chunk.css.map",
     "static/js/2.0aa3bed4.chunk.js.LICENSE.txt": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.0aa3bed4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d0e17e8c.js",
     "static/js/2.0aa3bed4.chunk.js",
-    "static/css/main.62629730.chunk.css",
+    "static/css/main.555a44f5.chunk.css",
     "static/js/main.307a2fcd.chunk.js"
   ]
 }
