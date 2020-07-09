@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "863157efaa2df01a135475bcd3a29258",
+    "revision": "bfc1a7c2fb85f085c959fde5fb1c23c5",
     "url": "/GH-NASA-Mars-Curiosity-Rover/index.html"
   },
   {
-    "revision": "d0eaa881493849c0df8e",
+    "revision": "09526867b0960a9461a5",
     "url": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.62629730.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.0aa3bed4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0eaa881493849c0df8e",
-    "url": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.45ec3d9d.chunk.js"
+    "revision": "09526867b0960a9461a5",
+    "url": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.307a2fcd.chunk.js"
   },
   {
     "revision": "aeafffc352ea32af53ab",
