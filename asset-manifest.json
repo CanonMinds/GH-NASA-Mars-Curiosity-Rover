@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.5f361e03.chunk.css",
-    "main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.b09539ba.chunk.js",
-    "main.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.b09539ba.chunk.js.map",
-    "runtime-main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/runtime-main.844bbb0b.js",
-    "runtime-main.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/runtime-main.844bbb0b.js.map",
-    "static/js/2.1a6f87e0.chunk.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.1a6f87e0.chunk.js",
-    "static/js/2.1a6f87e0.chunk.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.1a6f87e0.chunk.js.map",
+    "main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.1d2e0cd6.chunk.js",
+    "main.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/main.1d2e0cd6.chunk.js.map",
+    "runtime-main.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/runtime-main.d0e17e8c.js",
+    "runtime-main.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/runtime-main.d0e17e8c.js.map",
+    "static/js/2.a8af3fd8.chunk.js": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.a8af3fd8.chunk.js",
+    "static/js/2.a8af3fd8.chunk.js.map": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.a8af3fd8.chunk.js.map",
     "index.html": "/GH-NASA-Mars-Curiosity-Rover/index.html",
-    "precache-manifest.3141819bda2829ce67794350e8b6e15d.js": "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.3141819bda2829ce67794350e8b6e15d.js",
+    "precache-manifest.c2a61c99776fcc00b41d3350d068d82c.js": "/GH-NASA-Mars-Curiosity-Rover/precache-manifest.c2a61c99776fcc00b41d3350d068d82c.js",
     "service-worker.js": "/GH-NASA-Mars-Curiosity-Rover/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/GH-NASA-Mars-Curiosity-Rover/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1a6f87e0.chunk.js.LICENSE.txt": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.1a6f87e0.chunk.js.LICENSE.txt",
+    "static/js/2.a8af3fd8.chunk.js.LICENSE.txt": "/GH-NASA-Mars-Curiosity-Rover/static/js/2.a8af3fd8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/GH-NASA-Mars-Curiosity-Rover/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.844bbb0b.js",
-    "static/js/2.1a6f87e0.chunk.js",
+    "static/js/runtime-main.d0e17e8c.js",
+    "static/js/2.a8af3fd8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b09539ba.chunk.js"
+    "static/js/main.1d2e0cd6.chunk.js"
   ]
 }
