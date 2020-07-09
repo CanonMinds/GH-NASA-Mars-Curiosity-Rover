@@ -42,7 +42,7 @@ const App = () => {
     return (
       <div className="App">
       <div className="text-headers">
-              <h1 className="text-header">Mars Rover Photos NASA<span role="img" aria-label="Rocket"> 🚀</span></h1>
+              <h1 className="text-header">Mars Rover Photos of NASA<span role="img" aria-label="Rocket"> 🚀</span></h1>
               <div>
               <h2 className="text-headers">Images from Curiosity Rover</h2>
               <p>Captured Earth Date: July 12, 2015</p>
