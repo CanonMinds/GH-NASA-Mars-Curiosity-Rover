@@ -1,5 +1,7 @@
 https://canonminds.github.io/GH-NASA-Mars-Curiosity-Rover/
 
+![image](https://user-images.githubusercontent.com/52594413/132983065-8adc9a66-8f7b-43c7-8f72-9165429318e9.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
